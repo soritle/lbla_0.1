@@ -1,0 +1,9 @@
+D:\visual_studio_projects\lbla2\lbla2\bin\Debug\lbla2.exe.config
+D:\visual_studio_projects\lbla2\lbla2\bin\Debug\lbla2.exe
+D:\visual_studio_projects\lbla2\lbla2\bin\Debug\lbla2.pdb
+D:\visual_studio_projects\lbla2\lbla2\obj\Debug\lbla2.csprojResolveAssemblyReference.cache
+D:\visual_studio_projects\lbla2\lbla2\obj\Debug\lbla2.Properties.Resources.resources
+D:\visual_studio_projects\lbla2\lbla2\obj\Debug\lbla2.csproj.GenerateResource.Cache
+D:\visual_studio_projects\lbla2\lbla2\obj\Debug\lbla2.exe
+D:\visual_studio_projects\lbla2\lbla2\obj\Debug\lbla2.pdb
+D:\visual_studio_projects\lbla2\lbla2\obj\Debug\lbla2.Lbla.resources
